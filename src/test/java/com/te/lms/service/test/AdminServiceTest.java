@@ -1,4 +1,4 @@
-package com.ajay.lms.service;
+package com.te.lms.service.test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;

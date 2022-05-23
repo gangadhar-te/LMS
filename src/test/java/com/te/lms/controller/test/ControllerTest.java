@@ -1,4 +1,4 @@
-package com.ajay.lms.controller;
+package com.te.lms.controller.test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.ArgumentMatchers.any;

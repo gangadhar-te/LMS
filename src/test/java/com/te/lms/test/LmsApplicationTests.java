@@ -1,4 +1,4 @@
-package com.ajay.lms;
+package com.te.lms.test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

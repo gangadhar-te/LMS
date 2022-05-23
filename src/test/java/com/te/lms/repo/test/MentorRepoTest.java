@@ -1,4 +1,4 @@
-package com.ajay.lms.repo;
+package com.te.lms.repo.test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.ArgumentMatchers.any;
